@@ -46,6 +46,7 @@ The sales dashboard provides actionable insights that Ferns and Petals can use t
 2. Improve delivery logistics to reduce the average delivery time.
 3. Capitalize on high-revenue product categories like Colors and Soft Toys by expanding inventory or running promotions.
 4. Strengthen marketing and delivery networks in high-performing cities such as Imphal and Dhanbad.
+
 This data-driven approach will enable Ferns and Petals (FnP) to optimize operations, enhance customer satisfaction, and increase revenue.
 
 
