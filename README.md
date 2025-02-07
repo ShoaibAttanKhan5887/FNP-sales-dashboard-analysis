@@ -29,7 +29,7 @@ This dataset is from FNP (Ferns and Petals) that specializes in sending gifts fo
 4. **Data Visualization:** Utilized Excel charts for:
    - Bar charts (Revenue by Category and Occasion)
    - Line charts (Revenue by Month and Weekdays)
-   - Highlight tables (Top 10 Cities by Orders)
+   - Horizontal Bar Chart (Top 10 Cities by Orders)
 5. **Dashboard Design:** Ensured user-friendly and interactive visuals, including filters for periods and occasions.
 
 ## Projects Insights
