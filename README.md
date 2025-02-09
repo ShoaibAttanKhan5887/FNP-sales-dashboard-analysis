@@ -22,6 +22,11 @@ This dataset is from FNP (Ferns and Petals) that specializes in sending gifts fo
 ## Dashboard
 ![FNP-Dashboard Screenshot](https://github.com/user-attachments/assets/68b945a2-86bb-42de-b31a-24233b565594)
 
+
+https://github.com/user-attachments/assets/a1ebde30-953d-4e3f-a67c-0238152ca327
+
+
+
 ## Process
 1. **Data Preparation:** Imported the dataset containing order, customer, product, and creating new columns like revenue information.
 2. **Data Cleaning:** Ensured data accuracy by handling missing or inconsistent entries.
