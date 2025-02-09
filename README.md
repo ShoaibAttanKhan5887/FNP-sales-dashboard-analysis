@@ -23,14 +23,16 @@ This dataset is from FNP (Ferns and Petals) that specializes in sending gifts fo
 ![FNP-Dashboard Screenshot](https://github.com/user-attachments/assets/68b945a2-86bb-42de-b31a-24233b565594)
 
 ## Process
-1. **Data Preparation:** Imported the dataset containing order, customer, product, and revenue information.
+1. **Data Preparation:** Imported the dataset containing order, customer, product, and creating new columns like revenue information.
 2. **Data Cleaning:** Ensured data accuracy by handling missing or inconsistent entries.
-3. **Pivot Tables:** Created dynamic pivot tables to aggregate revenue, order quantities, and delivery times based on multiple dimensions, such as month, category, and occasion.
-4. **Data Visualization:** Utilized Excel charts for:
+3. **Data Modelling:** Created a data model between three tables *customers*, *orders*, and *products*.
+![image](https://github.com/user-attachments/assets/9fd8e1de-dec0-48e4-9c7c-d817b707160f)
+4. **Pivot Tables:** Created dynamic pivot tables to aggregate revenue, order quantities, and delivery times based on multiple dimensions, such as month, category, and occasion.
+5. **Data Visualization:** Utilized Excel charts for:
    - Bar charts (Revenue by Category and Occasion)
    - Line charts (Revenue by Month and Weekdays)
    - Horizontal Bar Chart (Top 10 Cities by Orders)
-5. **Dashboard Design:** Ensured user-friendly and interactive visuals, including filters for periods and occasions.
+6. **Dashboard Design:** Ensured user-friendly and interactive visuals, including filters for periods and occasions.
 
 ## Projects Insights
 - ***Revenue Fluctuations:*** Significant sales spikes in February and August suggest seasonal sales trends, possibly linked to Valentine’s Day and Raksha Bandhan.
